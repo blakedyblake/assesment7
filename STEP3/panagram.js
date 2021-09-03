@@ -37,3 +37,5 @@ function isPanagram(str){
     if(obj === {}) return true
     else return false;
 }
+
+//O(n)

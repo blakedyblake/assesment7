@@ -18,3 +18,4 @@ console.log(
     hasUniqueChars('asjdkfh'),
     hasUniqueChars('asdfghjkll')
 )
+//O(n)

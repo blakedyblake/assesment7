@@ -22,3 +22,5 @@ console.log(
     addToZero(arr3),
     addToZero(arr4)
 )
+
+//O(n)
