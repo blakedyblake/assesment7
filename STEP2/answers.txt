@@ -1,0 +1,15 @@
+1. done
+2. insert took 884 ms and append took 4 ms
+3.
+Tiny: insert:6.7 microseconds append 6.6 microseconds (10 items)
+Small: 17.9, 10.3 (100 items)
+Medium: 155.6, 61.6 (1000 items)
+Large: 8.9 ms, 1 ms (10000 items)
+extremely large: 884 ms, 4 ms (100000 items)
+
+4. insert is closer to O(n) and append is more like O(ln(n)), the items in
+each list is multiplying by ten each list. insert seems more multiplied by a similar amount
+where as append speed is minimumly affected
+
+5. insert unshifts is putting it at the beginning forcing everthing else to move an index
+    append pushes it at the end so it's pretty fast

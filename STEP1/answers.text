@@ -1,0 +1,59 @@
+1. Two CS tools: {
+    Conituous Integration: Git Lab
+    Real Time Monitoring: SolarWinds
+}
+2 : Features for each tool
+
+    Git LAB {
+        Open source
+        Allows you to save repos onto the site like git hub
+    }
+    Convince manager: Less websites to keep track of(combines the function of github and a ci website)
+    
+    SolarWinds { 
+        Along with Monitoring your site I believe it also has some cybersecurity functions
+
+    }
+    Convince manager: The additional function beyond just A normal time monitoring site makes it more appealing
+
+    3. 
+    Getting Started
+
+    Git LAB {
+        Easy to Start?  Yes
+        Well-documented Yes
+        Special tutorials? No
+        Summary of how to do it?
+            Create  account and install
+            You can use git to push and pull stuff just like github
+            Is integrated with other progrmas so you can Ci in the site...
+    }
+    SolarWinds{
+        {
+        Easy to Start? No
+        Well-documented? No
+        Special tutorials? Yes a video
+        Summary of how to do it?
+            The site pushes you to do a free trial I couldn't find any straight forward answers
+            But I imagine I install it and in the video the tasks looked a lot like we did in datadog
+            I'm interested to know more about it because, this was the program that got hacked that 
+            governments used for their datasystems... It sounds like they must be a good service, 
+            since everyone used them. Otherwise the hack wouldn't have been as bad.
+
+    }
+    }
+    4.
+    Git LAB {
+        They are a fierce competitor of Git hub.
+        Git hub is clearly used more. However there are niche groups that will use gitlab more(JS developers )
+        Git lab also has a feature for private repos that git hub has barely started doing, but aren't as good(according to the article i read)
+        Git lab is oriented around integreating with other tools. CI/CD beings it's cheif emphasis
+
+
+    }
+    SolarWinds {
+        From what I said I knew about SolarWinds because of the news. I knew it had to do with cybersecurity 
+        but I didn't know it was part of its Monitoring function. They were extremely popular before, it sounded like  
+        a huge chunck of companies and governments, including the USA. It's stock was steadily growing until
+        the hack happened. It seems they have dropped 15 points since then.
+    }
